@@ -14,7 +14,7 @@
   <b>Platform manajemen kebugaran modern yang memadukan keindahan antarmuka web dengan kecerdasan buatan (AI) untuk menghadirkan pengalaman gym yang terpersonalisasi, responsif, dan real-time.</b>
 </p>
 
-[Fitur Unggulan](#-fitur-unggulan) • [Arsitektur Sistem](#-arsitektur-sistem) • [Tech Stack](#-teknologi-yang-digunakan) • [Cara Menjalankan](#-cara-menjalankan-proyek) • [Evaluasi Akademik](#-catatan-evaluasi-akademik-uas)
+[Fitur Unggulan](#-fitur-unggulan) • [Arsitektur Sistem](#-arsitektur-sistem) • [Tech Stack](#-teknologi-yang-digunakan) • [Cara Menjalankan](#-cara-menjalankan-proyek)
 
 </div>
 
