@@ -136,17 +136,6 @@ Jika ingin menguji fitur update kapasitas kelas tanpa refresh, buka **Terminal 3
 cd frontend
 php artisan reverb:start
 ```
-
----
-
-## 🎓 Catatan Evaluasi Akademik (UAS)
-
-Proyek ini dibangun untuk memenuhi kualifikasi pembelajaran **Web Programming** dengan keunggulan implementasi:
-
-- **[LO1 — 30%] Fitur Utama Terstruktur:** Memiliki 13+ fitur member (BMI, Nutrisi, Kelas, Trainer) dan 6 modul admin yang saling terintegrasi menyelesaikan permasalahan manajemen gym modern.
-- **[LO2 — 40%] Implementasi Mendalam Laravel:** Memanfaatkan fitur mutakhir Laravel 12 termasuk MVC Architecture, Eloquent ORM dengan 23+ Migrations, Named Routes, Middleware (`auth` & `admin`), HTTP Client Facade untuk microservice call, serta **Laravel Reverb WebSocket** untuk event broadcasting.
-- **[LO3 — 30%] Integrasi Kecerdasan Buatan (AI):** Menghadirkan microservice terpisah berbasis **Go (Golang)** sebagai *AI Engine* yang mengeksekusi algoritma *Rule-Based Recommendation* dengan penilaian `match_rate` dinamis berdasarkan kondisi biometrik, riwayat medis, dan intensitas olahraga harian.
-
 ---
 
 <div align="center">
