@@ -139,6 +139,5 @@ php artisan reverb:start
 ---
 
 <div align="center">
-  <p>Dibuat dengan ❤️ oleh <b>Arthur Saka</b></p>
   <p><i>Project GYM — Web Programming 2026</i></p>
 </div>
