@@ -1,0 +1,17 @@
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+html { scroll-behavior: smooth; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }
+body { font-family: var(--font-body); font-size: var(--fs-base); color: var(--color-text); background: var(--color-bg); line-height: 1.6; overflow-x: hidden; }
+h1,h2,h3,h4,h5,h6 { font-family: var(--font-heading); font-weight: var(--fw-bold); line-height: 1.2; color: var(--color-text); }
+h1 { font-size: var(--fs-5xl); font-weight: var(--fw-extrabold); }
+h2 { font-size: var(--fs-4xl); }
+h3 { font-size: var(--fs-3xl); }
+h4 { font-size: var(--fs-2xl); }
+h5 { font-size: var(--fs-xl); }
+a { text-decoration: none; color: var(--color-accent); transition: color var(--transition-fast); }
+a:hover { color: var(--color-accent-hover); }
+img { max-width: 100%; height: auto; display: block; }
+button, input, select, textarea { font-family: inherit; font-size: inherit; }
+ul, ol { list-style: none; }
+button { cursor: pointer; border: none; background: none; }
+input, textarea, select { outline: none; }
+table { border-collapse: collapse; width: 100%; }
